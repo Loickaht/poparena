@@ -50,6 +50,12 @@
   }
 }
 
+/* Confettis de l'écran de fin */
+@keyframes tombe {
+  from { transform: translateY(0) rotate(0deg); opacity: 1; }
+  to { transform: translateY(240px) rotate(540deg); opacity: 0; }
+}
+
 html,
 body,
 #root {
@@ -58,7 +64,11 @@ body,
 
 body {
   margin: 0;
-  background: var(--color-nuit);
+  /* Deux halos colorés en fond pour l'ambiance « soirée » (un simple dégradé, 0 image) */
+  background:
+    radial-gradient(60rem 30rem at 110% -10%, rgb(139 92 246 / 0.18), transparent 60%),
+    radial-gradient(50rem 30rem at -20% 0%, rgb(255 61 127 / 0.14), transparent 60%),
+    var(--color-nuit);
   color: var(--color-texte);
   font-family: var(--font-sans);
   -webkit-tap-highlight-color: transparent;
