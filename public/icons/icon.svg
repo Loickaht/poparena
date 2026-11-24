@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff3d7f"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#140f24"/>
+  <circle cx="256" cy="256" r="168" fill="url(#g)"/>
+  <!-- Un masque de soirée : le symbole de l'imposteur -->
+  <path d="M120 214c88-52 184-52 272 0 0 86-38 122-84 122-26 0-40-20-52-38-12 18-26 38-52 38-46 0-84-36-84-122z" fill="#140f24"/>
+  <ellipse cx="200" cy="246" rx="30" ry="19" fill="#ffd23f"/>
+  <ellipse cx="312" cy="246" rx="30" ry="19" fill="#ffd23f"/>
+</svg>
