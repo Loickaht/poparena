@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vr-001",
+    "motA": "Café",
+    "motB": "Thé",
+    "categorie": "Boissons",
+    "difficulte": "facile",
+    "lien": "Une boisson chaude du matin, avec ou sans sucre.",
+    "piege": "Le café vient de grains moulus et il est amer ; le thé est fait de feuilles infusées."
+  },
+  {
+    "id": "vr-002",
+    "motA": "Requin",
+    "motB": "Dauphin",
+    "categorie": "Animaux",
+    "difficulte": "facile",
+    "lien": "Un grand nageur gris de la mer, avec un aileron sur le dos.",
+    "piege": "Le requin est un poisson chasseur qui fait peur ; le dauphin est un mammifère joueur et intelligent."
+  },
+  {
+    "id": "vr-003",
+    "motA": "WhatsApp",
+    "motB": "Telegram",
+    "categorie": "Applis",
+    "difficulte": "facile",
+    "lien": "Une appli de messagerie avec des groupes, des vocaux et des appels.",
+    "piege": "WhatsApp a un logo vert et des statuts ; Telegram a un avion en papier bleu et des chaînes."
+  },
+  {
+    "id": "vr-004",
+    "motA": "Avocat",
+    "motB": "Juge",
+    "categorie": "Métiers",
+    "difficulte": "moyen",
+    "lien": "Un métier du tribunal, en robe noire, qui connaît la loi par cœur.",
+    "piege": "L'avocat défend une personne ; le juge décide de la peine."
+  },
+  {
+    "id": "vr-005",
+    "motA": "Ascenseur",
+    "motB": "Escalator",
+    "categorie": "Objets",
+    "difficulte": "moyen",
+    "lien": "On monte les étages sans effort, dans un immeuble ou un centre commercial.",
+    "piege": "L'ascenseur est une cabine fermée avec des boutons ; l'escalator, ce sont des marches qui roulent."
+  },
+  {
+    "id": "vr-006",
+    "motA": "Mariage",
+    "motB": "Anniversaire",
+    "categorie": "Événements",
+    "difficulte": "facile",
+    "lien": "Une fête avec des invités, un gâteau, des photos et des cadeaux.",
+    "piege": "Au mariage on unit un couple ; à l'anniversaire on fête un âge."
+  },
+  {
+    "id": "vr-007",
+    "motA": "Bougie",
+    "motB": "Lampe torche",
+    "categorie": "Objets",
+    "difficulte": "moyen",
+    "lien": "Ce qu'on cherche dans le noir quand le courant est coupé.",
+    "piege": "La bougie a une flamme et de la cire ; la lampe torche a des piles et un interrupteur."
+  },
+  {
+    "id": "vr-008",
+    "motA": "Dentiste",
+    "motB": "Coiffeur",
+    "categorie": "Métiers",
+    "difficulte": "difficile",
+    "lien": "On s'assoit dans un fauteuil et quelqu'un travaille sur ta tête pendant que tu attends.",
+    "piege": "Le dentiste soigne les dents avec une fraise ; le coiffeur coupe les cheveux avec des ciseaux."
+  },
+  {
+    "id": "vr-009",
+    "motA": "Football",
+    "motB": "Handball",
+    "categorie": "Sports",
+    "difficulte": "facile",
+    "lien": "Un sport collectif avec un ballon, un gardien et des cages.",
+    "piege": "Au football on joue au pied ; au handball on joue à la main."
+  },
+  {
+    "id": "vr-010",
+    "motA": "Aéroport",
+    "motB": "Gare",
+    "categorie": "Lieux",
+    "difficulte": "moyen",
+    "lien": "On y attend un départ avec ses bagages et un billet.",
+    "piege": "À l'aéroport il y a des avions et des contrôles de sécurité ; à la gare, des trains et des quais."
+  }
+]

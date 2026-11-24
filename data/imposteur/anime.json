@@ -1,0 +1,92 @@
+[
+  {
+    "id": "an-f-001",
+    "motA": "Titans",
+    "motB": "Démons",
+    "categorie": "Créatures",
+    "difficulte": "facile",
+    "lien": "Des monstres mangeurs d'humains qu'on tue en tranchant la nuque.",
+    "piege": "Les Titans sont des géants qui se régénèrent (L'Attaque des Titans) ; les démons craignent le soleil (Demon Slayer)."
+  },
+  {
+    "id": "an-f-002",
+    "motA": "Vegeta",
+    "motB": "Sasuke",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Le rival fier et sombre du héros, survivant d'un peuple ou d'un clan détruit.",
+    "piege": "Vegeta est le prince des Saiyans qui finit père de famille ; Sasuke a le Sharingan et quitte son village."
+  },
+  {
+    "id": "an-f-003",
+    "motA": "Dragon Balls",
+    "motB": "Pokéballs",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "Des boules qu'on cherche et qu'on collectionne.",
+    "piege": "Les 7 Dragon Balls exaucent un vœu ; les Pokéballs servent à capturer des créatures."
+  },
+  {
+    "id": "an-f-004",
+    "motA": "Sukuna",
+    "motB": "Kurama",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Un être maléfique qui vit dans le corps du héros et lui parle de l'intérieur.",
+    "piege": "Sukuna est le roi des fléaux aux quatre bras et aux doigts dispersés ; Kurama est le renard à neuf queues qui devient l'ami de Naruto."
+  },
+  {
+    "id": "an-m-001",
+    "motA": "Rimuru",
+    "motB": "Ainz",
+    "categorie": "Isekai",
+    "difficulte": "moyen",
+    "lien": "Un humain transporté dans un autre monde en monstre surpuissant, qui fonde son propre royaume.",
+    "piege": "Rimuru est un slime gentil réincarné ; Ainz est un squelette coincé dans un jeu vidéo (Overlord)."
+  },
+  {
+    "id": "an-m-002",
+    "motA": "Denji",
+    "motB": "Yuji Itadori",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Un ado ordinaire qui fusionne avec un être maléfique et devient chasseur de monstres.",
+    "piege": "Denji a une tronçonneuse, des dettes et Pochita ; Yuji avale un doigt de Sukuna et entre dans une école d'exorcistes."
+  },
+  {
+    "id": "an-m-003",
+    "motA": "Kaguya Shinomiya",
+    "motB": "Alya",
+    "categorie": "Romcom",
+    "difficulte": "moyen",
+    "lien": "Une élève modèle du conseil des élèves, trop fière pour avouer ses sentiments.",
+    "piege": "Kaguya est une héritière aux cheveux noirs (Love is War) ; Alya a les cheveux argentés et murmure en russe (Roshidere)."
+  },
+  {
+    "id": "an-d-001",
+    "motA": "Chizuru Mizuhara",
+    "motB": "Chitoge Kirisaki",
+    "categorie": "Romcom",
+    "difficulte": "difficile",
+    "lien": "L'héroïne de romcom qui joue la fausse petite amie du héros.",
+    "piege": "Chizuru est payée à l'heure et rêve d'être actrice (Rent-a-Girlfriend) ; Chitoge est la fille blonde d'un chef de gang, avec un ruban (Nisekoi)."
+  },
+  {
+    "id": "an-d-002",
+    "motA": "Guts",
+    "motB": "Thorfinn",
+    "categorie": "Seinen",
+    "difficulte": "difficile",
+    "lien": "Un guerrier élevé enfant parmi des mercenaires et obsédé par la vengeance.",
+    "piege": "Guts a une épée gigantesque dans un monde de démons (Berserk) ; Thorfinn se bat avec deux dagues chez les Vikings puis devient pacifiste (Vinland Saga)."
+  },
+  {
+    "id": "an-d-003",
+    "motA": "Light Yagami",
+    "motB": "Lelouch",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un lycéen génie qui reçoit un pouvoir surnaturel et tue pour bâtir un monde meilleur, sous un faux nom.",
+    "piege": "Light utilise un cahier et côtoie un dieu de la mort ; Lelouch a un pouvoir dans l'œil, un masque et des robots géants."
+  }
+]
