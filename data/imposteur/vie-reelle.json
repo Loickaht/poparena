@@ -88,5 +88,635 @@
     "difficulte": "moyen",
     "lien": "On y attend un départ avec ses bagages et un billet.",
     "piege": "À l'aéroport il y a des avions et des contrôles de sécurité ; à la gare, des trains et des quais."
+  },
+  {
+    "id": "vr-011",
+    "motA": "Riz",
+    "motB": "Pâtes",
+    "categorie": "Nourriture",
+    "difficulte": "facile",
+    "lien": "Un féculent de base qu'on mange presque tous les jours avec une sauce.",
+    "piege": "Le riz, ce sont des petits grains ; les pâtes sont faites avec de la farine, en spaghettis ou en coquillettes."
+  },
+  {
+    "id": "vr-012",
+    "motA": "Pizza",
+    "motB": "Burger",
+    "categorie": "Nourriture",
+    "difficulte": "facile",
+    "lien": "Un fast-food qu'on commande pour manger avec les mains.",
+    "piege": "La pizza est une pâte plate et ronde coupée en parts ; le burger est un pain rond avec un steak au milieu."
+  },
+  {
+    "id": "vr-013",
+    "motA": "Sel",
+    "motB": "Sucre",
+    "categorie": "Nourriture",
+    "difficulte": "facile",
+    "lien": "Une poudre blanche en petits cristaux qu'on ajoute en cuisine.",
+    "piege": "Le sel rend salé ; le sucre rend sucré et va dans le café."
+  },
+  {
+    "id": "vr-014",
+    "motA": "Ketchup",
+    "motB": "Mayonnaise",
+    "categorie": "Nourriture",
+    "difficulte": "facile",
+    "lien": "Une sauce en tube qu'on met sur les frites.",
+    "piege": "Le ketchup est rouge, à la tomate ; la mayonnaise est blanche, à l'œuf."
+  },
+  {
+    "id": "vr-015",
+    "motA": "Popcorn",
+    "motB": "Chips",
+    "categorie": "Nourriture",
+    "difficulte": "facile",
+    "lien": "Un snack croustillant qu'on grignote devant un film.",
+    "piege": "Le popcorn, c'est du maïs qui éclate ; les chips sont des tranches de pomme de terre en sachet."
+  },
+  {
+    "id": "vr-016",
+    "motA": "Moustique",
+    "motB": "Abeille",
+    "categorie": "Animaux",
+    "difficulte": "facile",
+    "lien": "Un petit insecte volant qui pique.",
+    "piege": "Le moustique suce le sang et transmet le paludisme ; l'abeille fabrique le miel."
+  },
+  {
+    "id": "vr-017",
+    "motA": "Lion",
+    "motB": "Tigre",
+    "categorie": "Animaux",
+    "difficulte": "facile",
+    "lien": "Un grand félin carnivore, parmi les prédateurs les plus redoutés.",
+    "piege": "Le lion a une crinière et vit dans la savane africaine ; le tigre a des rayures et vit en Asie."
+  },
+  {
+    "id": "vr-018",
+    "motA": "Chat",
+    "motB": "Chien",
+    "categorie": "Animaux",
+    "difficulte": "facile",
+    "lien": "L'animal de compagnie préféré à la maison.",
+    "piege": "Le chat miaule et vit sa vie ; le chien aboie et garde la maison."
+  },
+  {
+    "id": "vr-019",
+    "motA": "Médecin",
+    "motB": "Infirmier",
+    "categorie": "Métiers",
+    "difficulte": "facile",
+    "lien": "Un métier en blouse blanche à l'hôpital, pour soigner les malades.",
+    "piege": "Le médecin examine et prescrit les médicaments ; l'infirmier fait les piqûres et les pansements."
+  },
+  {
+    "id": "vr-020",
+    "motA": "Ventilateur",
+    "motB": "Climatiseur",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "L'appareil qui rafraîchit quand il fait trop chaud.",
+    "piege": "Le ventilateur brasse l'air avec ses hélices ; le climatiseur souffle du froid et consomme beaucoup d'électricité."
+  },
+  {
+    "id": "vr-021",
+    "motA": "Stylo",
+    "motB": "Crayon",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "L'outil pour écrire à l'école.",
+    "piege": "Le stylo écrit à l'encre ; le crayon a une mine qu'on taille et qu'on peut gommer."
+  },
+  {
+    "id": "vr-022",
+    "motA": "Ordinateur",
+    "motB": "Tablette",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "Un écran pour travailler, jouer ou regarder des vidéos.",
+    "piege": "L'ordinateur a un clavier et une souris ; la tablette est tactile et tient dans les mains."
+  },
+  {
+    "id": "vr-023",
+    "motA": "Casque",
+    "motB": "Écouteurs",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "Ce qu'on utilise pour écouter de la musique sans déranger les autres.",
+    "piege": "Le casque se pose sur la tête ; les écouteurs se mettent dans les oreilles."
+  },
+  {
+    "id": "vr-024",
+    "motA": "Savon",
+    "motB": "Shampoing",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "Ce qui fait de la mousse sous la douche.",
+    "piege": "Le savon lave le corps et les mains ; le shampoing lave les cheveux."
+  },
+  {
+    "id": "vr-025",
+    "motA": "Moto",
+    "motB": "Vélo",
+    "categorie": "Transports",
+    "difficulte": "facile",
+    "lien": "Un deux-roues avec un guidon, pour se déplacer en ville.",
+    "piege": "La moto a un moteur et roule à l'essence ; le vélo avance à la force des pédales."
+  },
+  {
+    "id": "vr-026",
+    "motA": "Bus",
+    "motB": "Train",
+    "categorie": "Transports",
+    "difficulte": "facile",
+    "lien": "Un transport en commun avec beaucoup de passagers et des arrêts.",
+    "piege": "Le bus roule sur la route ; le train roule sur des rails."
+  },
+  {
+    "id": "vr-027",
+    "motA": "Valise",
+    "motB": "Sac à dos",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "Ce qu'on remplit d'affaires avant de partir.",
+    "piege": "La valise a des roulettes et part en voyage ; le sac à dos se porte sur le dos, même pour aller à l'école."
+  },
+  {
+    "id": "vr-028",
+    "motA": "Plage",
+    "motB": "Piscine",
+    "categorie": "Lieux",
+    "difficulte": "facile",
+    "lien": "Un endroit où on se baigne et où on bronze.",
+    "piege": "La plage, c'est la mer, le sable et l'eau salée ; la piscine est un bassin d'eau chlorée."
+  },
+  {
+    "id": "vr-029",
+    "motA": "Hôpital",
+    "motB": "Pharmacie",
+    "categorie": "Lieux",
+    "difficulte": "facile",
+    "lien": "Là où on va quand on est malade.",
+    "piege": "À l'hôpital, on est soigné et on peut dormir sur place ; à la pharmacie, on achète des médicaments."
+  },
+  {
+    "id": "vr-030",
+    "motA": "École",
+    "motB": "Université",
+    "categorie": "Lieux",
+    "difficulte": "facile",
+    "lien": "Un lieu où l'on étudie avec des profs.",
+    "piege": "À l'école, ce sont des enfants en classe ; à l'université, des étudiants en amphi."
+  },
+  {
+    "id": "vr-031",
+    "motA": "Basket",
+    "motB": "Volley",
+    "categorie": "Sports",
+    "difficulte": "facile",
+    "lien": "Un sport collectif où l'on joue le ballon à la main en sautant haut.",
+    "piege": "Au basket, on dribble et on marque dans un panier ; au volley, on frappe le ballon par-dessus un filet sans le laisser tomber."
+  },
+  {
+    "id": "vr-032",
+    "motA": "Échecs",
+    "motB": "Dames",
+    "categorie": "Jeux",
+    "difficulte": "facile",
+    "lien": "Un jeu de plateau à cases noires et blanches, à deux.",
+    "piege": "Aux échecs, il y a un roi, une reine et des cavaliers ; aux dames, on mange les pions en sautant par-dessus."
+  },
+  {
+    "id": "vr-033",
+    "motA": "Netflix",
+    "motB": "YouTube",
+    "categorie": "Applis",
+    "difficulte": "facile",
+    "lien": "Une appli pour regarder des vidéos en streaming.",
+    "piege": "Netflix est payant, avec des films et des séries ; YouTube est gratuit, avec des vidéos de youtubeurs."
+  },
+  {
+    "id": "vr-034",
+    "motA": "Instagram",
+    "motB": "TikTok",
+    "categorie": "Applis",
+    "difficulte": "facile",
+    "lien": "Un réseau social où on fait défiler des photos et des vidéos.",
+    "piege": "Instagram, ce sont surtout des photos et des stories ; TikTok, des vidéos courtes, des danses et des tendances."
+  },
+  {
+    "id": "vr-035",
+    "motA": "Nike",
+    "motB": "Adidas",
+    "categorie": "Marques",
+    "difficulte": "facile",
+    "lien": "Une grande marque de vêtements et de chaussures de sport.",
+    "piege": "Nike a une virgule comme logo ; Adidas a trois bandes."
+  },
+  {
+    "id": "vr-036",
+    "motA": "Samsung",
+    "motB": "iPhone",
+    "categorie": "Marques",
+    "difficulte": "facile",
+    "lien": "Un smartphone que tout le monde connaît.",
+    "piege": "Samsung est coréen et utilise Android ; l'iPhone est fait par Apple, avec une pomme au dos."
+  },
+  {
+    "id": "vr-037",
+    "motA": "Rêve",
+    "motB": "Cauchemar",
+    "categorie": "Vie quotidienne",
+    "difficulte": "facile",
+    "lien": "Ce qu'on voit en dormant.",
+    "piege": "Le rêve est agréable ; le cauchemar fait peur et réveille en sursaut."
+  },
+  {
+    "id": "vr-038",
+    "motA": "Chemise",
+    "motB": "T-shirt",
+    "categorie": "Vêtements",
+    "difficulte": "facile",
+    "lien": "Un haut qu'on porte tous les jours.",
+    "piege": "La chemise a un col et des boutons ; le t-shirt s'enfile par la tête."
+  },
+  {
+    "id": "vr-039",
+    "motA": "Baskets",
+    "motB": "Tongs",
+    "categorie": "Vêtements",
+    "difficulte": "facile",
+    "lien": "Ce qu'on met aux pieds pour sortir.",
+    "piege": "Les baskets ont des lacets et servent au sport ; les tongs se glissent entre les orteils."
+  },
+  {
+    "id": "vr-040",
+    "motA": "Soleil",
+    "motB": "Lune",
+    "categorie": "Nature",
+    "difficulte": "facile",
+    "lien": "Un astre rond qui brille dans le ciel.",
+    "piege": "Le soleil brille le jour et chauffe ; la lune apparaît la nuit et change de forme."
+  },
+  {
+    "id": "vr-041",
+    "motA": "Pluie",
+    "motB": "Neige",
+    "categorie": "Nature",
+    "difficulte": "facile",
+    "lien": "Ce qui tombe du ciel quand il y a des nuages.",
+    "piege": "La pluie, ce sont des gouttes d'eau ; la neige, des flocons blancs et froids."
+  },
+  {
+    "id": "vr-042",
+    "motA": "Noël",
+    "motB": "Nouvel An",
+    "categorie": "Fêtes",
+    "difficulte": "facile",
+    "lien": "La grande fête de fin décembre, en famille ou entre amis.",
+    "piege": "Noël, c'est le 25 avec le sapin et les cadeaux ; le Nouvel An, c'est le compte à rebours à minuit le 31."
+  },
+  {
+    "id": "vr-043",
+    "motA": "Crêpe",
+    "motB": "Pancake",
+    "categorie": "Nourriture",
+    "difficulte": "moyen",
+    "lien": "Une galette ronde cuite à la poêle, pour le petit-déjeuner ou le goûter.",
+    "piege": "La crêpe est fine et large (France) ; le pancake est petit et épais, avec du sirop (États-Unis)."
+  },
+  {
+    "id": "vr-044",
+    "motA": "Piment",
+    "motB": "Poivre",
+    "categorie": "Nourriture",
+    "difficulte": "moyen",
+    "lien": "Ce qu'on ajoute au plat pour qu'il pique.",
+    "piege": "Le piment est un petit fruit rouge ou vert ; le poivre, ce sont des grains noirs qu'on moud."
+  },
+  {
+    "id": "vr-045",
+    "motA": "Coca-Cola",
+    "motB": "Fanta",
+    "categorie": "Boissons",
+    "difficulte": "moyen",
+    "lien": "Une boisson gazeuse sucrée de la même entreprise, en canette ou en bouteille.",
+    "piege": "Le Coca-Cola est brun, au goût de cola ; le Fanta est orange ou à d'autres fruits."
+  },
+  {
+    "id": "vr-046",
+    "motA": "Éléphant",
+    "motB": "Hippopotame",
+    "categorie": "Animaux",
+    "difficulte": "moyen",
+    "lien": "Un énorme animal d'Afrique à la peau grise et épaisse.",
+    "piege": "L'éléphant a une trompe et des défenses ; l'hippopotame vit dans l'eau et ouvre une gueule immense."
+  },
+  {
+    "id": "vr-047",
+    "motA": "Chauve-souris",
+    "motB": "Hibou",
+    "categorie": "Animaux",
+    "difficulte": "moyen",
+    "lien": "Un animal qui vole la nuit.",
+    "piege": "La chauve-souris est un mammifère qui dort la tête en bas ; le hibou est un oiseau qui tourne la tête presque à l'envers."
+  },
+  {
+    "id": "vr-048",
+    "motA": "Fourmi",
+    "motB": "Termite",
+    "categorie": "Animaux",
+    "difficulte": "moyen",
+    "lien": "Un petit insecte qui vit en colonie avec une reine.",
+    "piege": "La fourmi se balade partout dans la maison ; le termite mange le bois et construit des termitières."
+  },
+  {
+    "id": "vr-049",
+    "motA": "Policier",
+    "motB": "Militaire",
+    "categorie": "Métiers",
+    "difficulte": "moyen",
+    "lien": "Un métier en uniforme, avec une arme, pour protéger les gens.",
+    "piege": "Le policier fait respecter la loi en ville ; le militaire défend le pays dans l'armée."
+  },
+  {
+    "id": "vr-050",
+    "motA": "Pompier",
+    "motB": "Ambulancier",
+    "categorie": "Métiers",
+    "difficulte": "moyen",
+    "lien": "Un sauveteur qui arrive en urgence avec une sirène.",
+    "piege": "Le pompier éteint les incendies ; l'ambulancier transporte les blessés à l'hôpital."
+  },
+  {
+    "id": "vr-051",
+    "motA": "Mécanicien",
+    "motB": "Plombier",
+    "categorie": "Métiers",
+    "difficulte": "moyen",
+    "lien": "Un artisan qui répare avec des outils et finit les mains sales.",
+    "piege": "Le mécanicien répare les voitures et les motos ; le plombier répare les tuyaux et les fuites d'eau."
+  },
+  {
+    "id": "vr-052",
+    "motA": "Développeur",
+    "motB": "Hacker",
+    "categorie": "Métiers",
+    "difficulte": "moyen",
+    "lien": "Quelqu'un qui passe ses journées à écrire du code sur un ordinateur.",
+    "piege": "Le développeur crée des applis et des sites ; le hacker cherche les failles pour entrer dans les systèmes."
+  },
+  {
+    "id": "vr-053",
+    "motA": "Chanteur",
+    "motB": "Rappeur",
+    "categorie": "Musique",
+    "difficulte": "moyen",
+    "lien": "Un artiste au micro, sur scène devant son public.",
+    "piege": "Le chanteur chante des mélodies ; le rappeur enchaîne les paroles en rythme sur un beat."
+  },
+  {
+    "id": "vr-054",
+    "motA": "Parapluie",
+    "motB": "Parasol",
+    "categorie": "Objets",
+    "difficulte": "moyen",
+    "lien": "Un objet qu'on ouvre au-dessus de sa tête pour se protéger.",
+    "piege": "Le parapluie protège de la pluie et se replie dans un sac ; le parasol protège du soleil et se plante sur la plage."
+  },
+  {
+    "id": "vr-055",
+    "motA": "Brosse à dents",
+    "motB": "Peigne",
+    "categorie": "Objets",
+    "difficulte": "moyen",
+    "lien": "Un objet en plastique de la salle de bain qu'on utilise chaque matin.",
+    "piege": "La brosse à dents a des poils pour les dents ; le peigne a des dents pour les cheveux."
+  },
+  {
+    "id": "vr-056",
+    "motA": "Avion",
+    "motB": "Hélicoptère",
+    "categorie": "Transports",
+    "difficulte": "moyen",
+    "lien": "Un appareil qui vole avec un pilote et des passagers.",
+    "piege": "L'avion a des ailes et décolle d'une piste ; l'hélicoptère a une hélice sur le toit et peut rester sur place."
+  },
+  {
+    "id": "vr-057",
+    "motA": "Cinéma",
+    "motB": "Théâtre",
+    "categorie": "Lieux",
+    "difficulte": "moyen",
+    "lien": "Une salle avec des sièges où l'on vient voir un spectacle avec un billet.",
+    "piege": "Au cinéma, on regarde un film sur un écran ; au théâtre, des acteurs jouent en vrai sur scène."
+  },
+  {
+    "id": "vr-058",
+    "motA": "Boxe",
+    "motB": "Karaté",
+    "categorie": "Sports",
+    "difficulte": "moyen",
+    "lien": "Un sport de combat où l'on frappe son adversaire.",
+    "piege": "En boxe, on frappe avec des gants ; au karaté, on porte un kimono et une ceinture, et on utilise aussi les pieds."
+  },
+  {
+    "id": "vr-059",
+    "motA": "Pompes",
+    "motB": "Tractions",
+    "categorie": "Sports",
+    "difficulte": "moyen",
+    "lien": "Un exercice au poids du corps, star de la calisthénie.",
+    "piege": "Les pompes se font au sol et travaillent les pectoraux ; les tractions se font à une barre et travaillent le dos."
+  },
+  {
+    "id": "vr-060",
+    "motA": "PlayStation",
+    "motB": "Xbox",
+    "categorie": "Marques",
+    "difficulte": "moyen",
+    "lien": "Une console de jeux vidéo qu'on branche sur la télé.",
+    "piege": "La PlayStation est faite par Sony ; la Xbox par Microsoft, avec un logo vert."
+  },
+  {
+    "id": "vr-061",
+    "motA": "Google",
+    "motB": "Wikipédia",
+    "categorie": "Applis",
+    "difficulte": "moyen",
+    "lien": "Le site où l'on cherche une information.",
+    "piege": "Google est un moteur de recherche ; Wikipédia est une encyclopédie écrite par des bénévoles."
+  },
+  {
+    "id": "vr-062",
+    "motA": "ChatGPT",
+    "motB": "Siri",
+    "categorie": "Applis",
+    "difficulte": "moyen",
+    "lien": "Un assistant intelligent à qui l'on pose des questions.",
+    "piege": "ChatGPT répond par écrit dans une appli ; Siri répond à la voix sur iPhone."
+  },
+  {
+    "id": "vr-063",
+    "motA": "Mobile Money",
+    "motB": "Carte bancaire",
+    "categorie": "Argent",
+    "difficulte": "moyen",
+    "lien": "Un moyen de payer sans billets.",
+    "piege": "Le Mobile Money passe par le téléphone et un code ; la carte bancaire est une carte à puce liée à un compte en banque."
+  },
+  {
+    "id": "vr-064",
+    "motA": "Karaoké",
+    "motB": "Concert",
+    "categorie": "Activités",
+    "difficulte": "moyen",
+    "lien": "Une soirée musicale avec un micro et du public.",
+    "piege": "Au karaoké, c'est toi qui chantes sur les paroles à l'écran ; au concert, tu écoutes un artiste sur scène."
+  },
+  {
+    "id": "vr-065",
+    "motA": "Casquette",
+    "motB": "Chapeau",
+    "categorie": "Vêtements",
+    "difficulte": "moyen",
+    "lien": "Ce qu'on porte sur la tête contre le soleil.",
+    "piege": "La casquette a une visière devant ; le chapeau a un bord tout autour."
+  },
+  {
+    "id": "vr-066",
+    "motA": "Arc-en-ciel",
+    "motB": "Feu d'artifice",
+    "categorie": "Nature",
+    "difficulte": "moyen",
+    "lien": "Des couleurs qui apparaissent dans le ciel.",
+    "piege": "L'arc-en-ciel apparaît après la pluie ; le feu d'artifice explose la nuit pendant les fêtes."
+  },
+  {
+    "id": "vr-067",
+    "motA": "Wi-Fi",
+    "motB": "Bluetooth",
+    "categorie": "Technologie",
+    "difficulte": "moyen",
+    "lien": "Une connexion sans fil entre appareils.",
+    "piege": "Le Wi-Fi donne accès à internet ; le Bluetooth relie deux appareils proches, comme des écouteurs."
+  },
+  {
+    "id": "vr-068",
+    "motA": "Chargeur",
+    "motB": "Batterie externe",
+    "categorie": "Technologie",
+    "difficulte": "moyen",
+    "lien": "Ce qui recharge ton téléphone quand il est à plat.",
+    "piege": "Le chargeur se branche au mur ; la batterie externe s'emporte partout, même pendant une coupure."
+  },
+  {
+    "id": "vr-069",
+    "motA": "Perroquet",
+    "motB": "Singe",
+    "categorie": "Animaux",
+    "difficulte": "difficile",
+    "lien": "Un animal connu pour imiter les humains.",
+    "piege": "Le perroquet répète les mots ; le singe imite les gestes."
+  },
+  {
+    "id": "vr-070",
+    "motA": "Couturier",
+    "motB": "Cordonnier",
+    "categorie": "Métiers",
+    "difficulte": "difficile",
+    "lien": "Un artisan qui répare avec du fil et une aiguille.",
+    "piege": "Le couturier fait et retouche des vêtements ; le cordonnier répare les chaussures."
+  },
+  {
+    "id": "vr-071",
+    "motA": "Professeur",
+    "motB": "Présentateur télé",
+    "categorie": "Métiers",
+    "difficulte": "difficile",
+    "lien": "Quelqu'un qui parle chaque jour devant un public pour expliquer des choses.",
+    "piege": "Le professeur est en classe avec des élèves ; le présentateur est filmé et passe à la télé."
+  },
+  {
+    "id": "vr-072",
+    "motA": "Miroir",
+    "motB": "Fenêtre",
+    "categorie": "Objets",
+    "difficulte": "difficile",
+    "lien": "Une plaque de verre dans la maison.",
+    "piege": "Le miroir te renvoie ton reflet ; la fenêtre laisse voir dehors."
+  },
+  {
+    "id": "vr-073",
+    "motA": "Clé",
+    "motB": "Mot de passe",
+    "categorie": "Objets",
+    "difficulte": "difficile",
+    "lien": "Ce qui permet d'ouvrir et de protéger l'accès à quelque chose.",
+    "piege": "La clé est un objet en métal pour une porte ; le mot de passe est un secret qu'on tape pour un compte."
+  },
+  {
+    "id": "vr-074",
+    "motA": "Bibliothèque",
+    "motB": "Librairie",
+    "categorie": "Lieux",
+    "difficulte": "difficile",
+    "lien": "Un lieu rempli de livres.",
+    "piege": "À la bibliothèque, on emprunte gratuitement ; à la librairie, on achète."
+  },
+  {
+    "id": "vr-075",
+    "motA": "Prison",
+    "motB": "Zoo",
+    "categorie": "Lieux",
+    "difficulte": "difficile",
+    "lien": "Un lieu où l'on est enfermé derrière des barreaux, surveillé par des gardiens.",
+    "piege": "La prison enferme des humains ; le zoo, des animaux que l'on vient visiter."
+  },
+  {
+    "id": "vr-076",
+    "motA": "GPS",
+    "motB": "Boussole",
+    "categorie": "Objets",
+    "difficulte": "difficile",
+    "lien": "Ce qui t'aide à trouver ton chemin.",
+    "piege": "Le GPS te guide avec une carte et des satellites ; la boussole n'a qu'une aiguille qui montre le nord."
+  },
+  {
+    "id": "vr-077",
+    "motA": "Examen",
+    "motB": "Concours",
+    "categorie": "École",
+    "difficulte": "difficile",
+    "lien": "Une épreuve écrite stressante en fin d'année.",
+    "piege": "À l'examen, il suffit d'avoir la moyenne ; au concours, seuls les meilleurs sont pris."
+  },
+  {
+    "id": "vr-078",
+    "motA": "Baccalauréat",
+    "motB": "Permis de conduire",
+    "categorie": "École",
+    "difficulte": "difficile",
+    "lien": "Un examen important qu'on passe souvent vers 18 ans.",
+    "piege": "Le bac termine le lycée ; le permis autorise à conduire une voiture."
+  },
+  {
+    "id": "vr-079",
+    "motA": "Groupe électrogène",
+    "motB": "Panneau solaire",
+    "categorie": "Technologie",
+    "difficulte": "difficile",
+    "lien": "Ce qui donne de l'électricité quand le courant du réseau est coupé.",
+    "piege": "Le groupe électrogène marche au carburant et fait du bruit ; le panneau solaire se pose sur le toit et utilise le soleil."
+  },
+  {
+    "id": "vr-080",
+    "motA": "Rap",
+    "motB": "Slam",
+    "categorie": "Musique",
+    "difficulte": "difficile",
+    "lien": "Des textes dits en rythme devant un public.",
+    "piege": "Le rap se pose sur un beat ; le slam est de la poésie dite, souvent sans musique."
   }
 ]

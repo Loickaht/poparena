@@ -36,6 +36,240 @@
     "piege": "Sukuna est le roi des fléaux aux quatre bras et aux doigts dispersés ; Kurama est le renard à neuf queues qui devient l'ami de Naruto."
   },
   {
+    "id": "an-f-005",
+    "motA": "Rasengan",
+    "motB": "Kamehameha",
+    "categorie": "Techniques",
+    "difficulte": "facile",
+    "lien": "Une attaque d'énergie qu'on prépare dans ses mains en criant son nom.",
+    "piege": "Le Rasengan est une sphère qui tourbillonne et qu'on écrase sur l'ennemi (Naruto) ; le Kamehameha est un rayon lancé à distance (Dragon Ball)."
+  },
+  {
+    "id": "an-f-006",
+    "motA": "Kakashi",
+    "motB": "Gojo",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Un prof aux cheveux blancs, très fort et décontracté, qui cache une partie de son visage.",
+    "piege": "Kakashi porte un masque sur la bouche et un bandeau sur un œil ; Gojo a un bandeau noir sur les deux yeux et la technique de l'Infini."
+  },
+  {
+    "id": "an-f-007",
+    "motA": "Luffy",
+    "motB": "Goku",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Le héros naïf et toujours affamé qui adore l'aventure et les combats.",
+    "piege": "Luffy a un corps élastique et un chapeau de paille ; Goku est un Saiyan qui pratique les arts martiaux."
+  },
+  {
+    "id": "an-f-008",
+    "motA": "Naruto",
+    "motB": "Deku",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Un garçon moqué au départ qui rêve de devenir le numéro 1 et ne lâche jamais rien.",
+    "piege": "Naruto est un ninja qui abrite un renard et adore les ramen ; Deku a hérité du pouvoir de son idole All Might."
+  },
+  {
+    "id": "an-f-009",
+    "motA": "Zoro",
+    "motB": "Inosuke",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Un combattant sauvage qui se bat avec plusieurs sabres et veut toujours prouver qu'il est le plus fort.",
+    "piege": "Zoro a trois sabres, les cheveux verts et se perd tout le temps ; Inosuke porte une tête de sanglier et deux lames ébréchées."
+  },
+  {
+    "id": "an-f-010",
+    "motA": "Pikachu",
+    "motB": "Chopper",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "La petite mascotte mignonne qui accompagne le héros partout.",
+    "piege": "Pikachu est une souris électrique qui refuse sa Pokéball ; Chopper est un renne médecin qui a mangé un fruit du démon."
+  },
+  {
+    "id": "an-f-011",
+    "motA": "Nezuko",
+    "motB": "Mikasa",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "La fille élevée avec le héros comme une sœur, très forte, qui le protège à tout prix.",
+    "piege": "Nezuko est devenue un démon et voyage dans une boîte, un bambou dans la bouche ; Mikasa est une soldate à l'écharpe rouge."
+  },
+  {
+    "id": "an-f-012",
+    "motA": "Sharingan",
+    "motB": "Byakugan",
+    "categorie": "Pouvoirs",
+    "difficulte": "facile",
+    "lien": "Un œil spécial transmis dans un clan de ninjas.",
+    "piege": "Le Sharingan est rouge et copie les techniques (clan Uchiwa) ; le Byakugan est blanc et voit à travers tout (clan Hyûga)."
+  },
+  {
+    "id": "an-f-013",
+    "motA": "Hokage",
+    "motB": "Roi des pirates",
+    "categorie": "Titres",
+    "difficulte": "facile",
+    "lien": "Le titre suprême que le héros rêve d'obtenir depuis l'enfance.",
+    "piege": "Le Hokage dirige le village ninja de Konoha ; le Roi des pirates est celui qui trouvera le One Piece."
+  },
+  {
+    "id": "an-f-014",
+    "motA": "L",
+    "motB": "Kira",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Un génie de Death Note qui cache sa vraie identité derrière une lettre ou un surnom.",
+    "piege": "L est le détective qui mange des sucreries assis accroupi ; Kira est le tueur qui écrit des noms dans le cahier."
+  },
+  {
+    "id": "an-f-015",
+    "motA": "Ramen",
+    "motB": "Onigiri",
+    "categorie": "Nourriture",
+    "difficulte": "facile",
+    "lien": "Un plat japonais qu'on voit sans arrêt dans les anime.",
+    "piege": "Les ramen sont une soupe de nouilles (le plat préféré de Naruto) ; l'onigiri est une boule de riz enroulée dans une algue."
+  },
+  {
+    "id": "an-f-016",
+    "motA": "Zenitsu",
+    "motB": "Usopp",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Le froussard du groupe qui pleure et crie, mais se révèle courageux au bon moment.",
+    "piege": "Zenitsu a les cheveux jaunes et combat en dormant avec la foudre ; Usopp a un long nez, ment beaucoup et tire au lance-pierre."
+  },
+  {
+    "id": "an-f-017",
+    "motA": "Bulma",
+    "motB": "Nami",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "La première fille de l'équipe du héros, très intelligente et au caractère bien trempé.",
+    "piege": "Bulma est une inventrice riche qui a créé le radar à Dragon Balls ; Nami est la navigatrice voleuse qui adore l'argent."
+  },
+  {
+    "id": "an-f-018",
+    "motA": "Jiraiya",
+    "motB": "Tortue Géniale",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Le vieux maître pervers qui entraîne le héros.",
+    "piege": "Jiraiya est l'ermite des crapauds et écrit des romans ; la Tortue Géniale est un vieux chauve à lunettes avec une carapace sur le dos."
+  },
+  {
+    "id": "an-f-019",
+    "motA": "Gohan",
+    "motB": "Boruto",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Le fils du héros légendaire de la série.",
+    "piege": "Gohan, fils de Goku, préfère les études ; Boruto, fils de Naruto, est rebelle et reproche à son père d'être absent."
+  },
+  {
+    "id": "an-f-020",
+    "motA": "Fruit du démon",
+    "motB": "Alter",
+    "categorie": "Pouvoirs",
+    "difficulte": "facile",
+    "lien": "Le pouvoir unique qui rend chaque personnage spécial.",
+    "piege": "Le fruit du démon se mange et empêche de nager (One Piece) ; l'Alter est un pouvoir de naissance (My Hero Academia)."
+  },
+  {
+    "id": "an-f-021",
+    "motA": "Hinata",
+    "motB": "Sakura",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Une fille de l'entourage de Naruto, amoureuse d'un garçon depuis l'enfance.",
+    "piege": "Hinata est timide, a le Byakugan et aime Naruto ; Sakura a les cheveux roses, soigne les blessés et aime Sasuke."
+  },
+  {
+    "id": "an-f-022",
+    "motA": "Kunai",
+    "motB": "Shuriken",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "L'arme de lancer préférée des ninjas.",
+    "piege": "Le kunai est un couteau pointu avec un anneau au bout ; le shuriken est une étoile en métal."
+  },
+  {
+    "id": "an-f-023",
+    "motA": "Bandeau frontal",
+    "motB": "Chapeau de paille",
+    "categorie": "Objets",
+    "difficulte": "facile",
+    "lien": "L'accessoire symbole du héros, qu'il ne quitte presque jamais.",
+    "piege": "Le bandeau frontal porte le symbole du village ninja ; le chapeau de paille a été offert à Luffy par Shanks."
+  },
+  {
+    "id": "an-f-024",
+    "motA": "Tanjiro",
+    "motB": "Ichigo",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Le jeune héros au grand cœur qui combat des monstres au sabre pour protéger sa famille.",
+    "piege": "Tanjiro a des boucles d'oreilles et un odorat surpuissant ; Ichigo a les cheveux orange et devient un shinigami."
+  },
+  {
+    "id": "an-f-025",
+    "motA": "Totoro",
+    "motB": "Ronflex",
+    "categorie": "Créatures",
+    "difficulte": "facile",
+    "lien": "Une énorme créature toute ronde et douce qui passe son temps à dormir.",
+    "piege": "Totoro est l'esprit de la forêt d'un film du studio Ghibli ; Ronflex est un Pokémon qui bloque la route en dormant."
+  },
+  {
+    "id": "an-f-026",
+    "motA": "Salamèche",
+    "motB": "Carapuce",
+    "categorie": "Créatures",
+    "difficulte": "facile",
+    "lien": "Un Pokémon de départ de la première génération.",
+    "piege": "Salamèche est un lézard de type Feu avec une flamme au bout de la queue ; Carapuce est une tortue de type Eau."
+  },
+  {
+    "id": "an-f-027",
+    "motA": "Pokémon",
+    "motB": "Digimon",
+    "categorie": "Séries",
+    "difficulte": "facile",
+    "lien": "Des petits monstres qui évoluent et combattent aux côtés d'enfants.",
+    "piege": "Les Pokémon se capturent dans des Pokéballs ; les Digimon viennent d'un monde numérique et se lient à un Digivice."
+  },
+  {
+    "id": "an-f-028",
+    "motA": "Bakugo",
+    "motB": "Todoroki",
+    "categorie": "Personnages",
+    "difficulte": "facile",
+    "lien": "Le rival surdoué de Deku dans la classe 1-A.",
+    "piege": "Bakugo est blond, colérique et fait des explosions ; Todoroki a les cheveux bicolores et contrôle la glace et le feu."
+  },
+  {
+    "id": "an-f-029",
+    "motA": "Manga",
+    "motB": "Webtoon",
+    "categorie": "Culture otaku",
+    "difficulte": "facile",
+    "lien": "Une BD asiatique qu'on lit pour suivre une histoire.",
+    "piege": "Le manga japonais est en noir et blanc et se lit de droite à gauche ; le webtoon coréen est en couleur et défile de haut en bas sur le téléphone."
+  },
+  {
+    "id": "an-f-030",
+    "motA": "Opening",
+    "motB": "Ending",
+    "categorie": "Culture otaku",
+    "difficulte": "facile",
+    "lien": "La chanson du générique d'un anime.",
+    "piege": "L'opening passe au début de l'épisode ; l'ending, à la fin."
+  },
+  {
     "id": "an-m-001",
     "motA": "Rimuru",
     "motB": "Ainz",
@@ -63,6 +297,249 @@
     "piege": "Kaguya est une héritière aux cheveux noirs (Love is War) ; Alya a les cheveux argentés et murmure en russe (Roshidere)."
   },
   {
+    "id": "an-m-004",
+    "motA": "Kurapika",
+    "motB": "Sasuke",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Le dernier survivant d'un clan massacré, qui vit pour la vengeance et dont les yeux deviennent rouges.",
+    "piege": "Kurapika est blond et se bat avec des chaînes (Hunter x Hunter) ; Sasuke est un ninja aux cheveux noirs avec le Sharingan (Naruto)."
+  },
+  {
+    "id": "an-m-005",
+    "motA": "Chakra",
+    "motB": "Haki",
+    "categorie": "Pouvoirs",
+    "difficulte": "moyen",
+    "lien": "L'énergie intérieure qu'on apprend à maîtriser pour se battre.",
+    "piege": "Le chakra sert à faire des techniques ninja avec des signes des mains ; le Haki est une force de volonté qui durcit le corps ou fait s'évanouir les ennemis."
+  },
+  {
+    "id": "an-m-006",
+    "motA": "Bankai",
+    "motB": "Extension du territoire",
+    "categorie": "Techniques",
+    "difficulte": "moyen",
+    "lien": "La technique ultime qui libère toute la puissance d'un combattant.",
+    "piege": "Le Bankai est la libération finale d'un sabre (Bleach) ; l'Extension du territoire crée un espace où les attaques touchent à coup sûr (Jujutsu Kaisen)."
+  },
+  {
+    "id": "an-m-007",
+    "motA": "Super Saiyan",
+    "motB": "Gear 5",
+    "categorie": "Transformations",
+    "difficulte": "moyen",
+    "lien": "La transformation légendaire du héros, qui change la couleur de ses cheveux.",
+    "piege": "Le Super Saiyan rend les cheveux dorés sous l'effet de la colère ; le Gear 5 rend Luffy tout blanc, rieur et élastique comme un dessin animé."
+  },
+  {
+    "id": "an-m-008",
+    "motA": "Muzan",
+    "motB": "Orochimaru",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Un méchant au teint pâle, obsédé par l'immortalité, qui transforme les autres avec son pouvoir.",
+    "piege": "Muzan est le roi des démons qui veut vaincre le soleil ; Orochimaru est un ninja-serpent qui change de corps pour ne pas mourir."
+  },
+  {
+    "id": "an-m-009",
+    "motA": "Shanks",
+    "motB": "All Might",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "L'idole du héros, qui lui a transmis quelque chose de précieux et a payé de sa personne pour lui.",
+    "piege": "Shanks a perdu un bras pour sauver Luffy et lui a donné son chapeau ; All Might a transmis son Alter à Deku."
+  },
+  {
+    "id": "an-m-010",
+    "motA": "Piccolo",
+    "motB": "Aizawa",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Le prof sévère et bourru qui tient beaucoup à ses élèves sans le montrer.",
+    "piege": "Piccolo est un Namek vert qui a entraîné Gohan ; Aizawa porte une longue écharpe et efface les Alter d'un regard."
+  },
+  {
+    "id": "an-m-011",
+    "motA": "Zanpakutō",
+    "motB": "Sabre Nichirin",
+    "categorie": "Objets",
+    "difficulte": "moyen",
+    "lien": "Le sabre spécial des guerriers qui combattent les monstres.",
+    "piege": "Le Zanpakutō a une âme et un nom (Bleach) ; le sabre Nichirin change de couleur selon son porteur (Demon Slayer)."
+  },
+  {
+    "id": "an-m-012",
+    "motA": "Konoha",
+    "motB": "Shiganshina",
+    "categorie": "Lieux",
+    "difficulte": "moyen",
+    "lien": "Le lieu natal du héros, attaqué par un monstre géant au début de l'histoire.",
+    "piege": "Konoha est le village ninja attaqué par le renard à neuf queues ; Shiganshina est le district dont le mur est brisé par le Titan colossal."
+  },
+  {
+    "id": "an-m-013",
+    "motA": "Olive",
+    "motB": "Isagi",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Un jeune footballeur qui rêve de devenir le meilleur du monde.",
+    "piege": "Olive (Olive et Tom) dit que le ballon est son ami ; Isagi est enfermé dans le programme Blue Lock pour devenir un attaquant égoïste."
+  },
+  {
+    "id": "an-m-014",
+    "motA": "Kaneki",
+    "motB": "Eren",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Un garçon ordinaire qui découvre qu'il peut devenir un monstre mangeur d'humains.",
+    "piege": "Kaneki devient une goule après une greffe et ses cheveux deviennent blancs (Tokyo Ghoul) ; Eren se transforme en titan géant."
+  },
+  {
+    "id": "an-m-015",
+    "motA": "Kazuma",
+    "motB": "Naofumi",
+    "categorie": "Isekai",
+    "difficulte": "moyen",
+    "lien": "Un héros d'isekai que tout le monde prend pour un minable au début.",
+    "piege": "Kazuma est mort de façon ridicule et voyage avec une déesse inutile (Konosuba) ; Naofumi n'a qu'un bouclier et a été accusé à tort (The Rising of the Shield Hero)."
+  },
+  {
+    "id": "an-m-016",
+    "motA": "Rem",
+    "motB": "Ram",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Les jumelles servantes du manoir dans Re:Zero.",
+    "piege": "Rem a les cheveux bleus et est amoureuse de Subaru ; Ram, l'aînée, a les cheveux roses et un caractère hautain."
+  },
+  {
+    "id": "an-m-017",
+    "motA": "Tsundere",
+    "motB": "Yandere",
+    "categorie": "Culture otaku",
+    "difficulte": "moyen",
+    "lien": "Un type de personnage amoureux au comportement extrême.",
+    "piege": "La tsundere fait la froide et s'énerve avant de montrer sa tendresse ; la yandere aime au point d'en devenir dangereuse."
+  },
+  {
+    "id": "an-m-018",
+    "motA": "Senpai",
+    "motB": "Sensei",
+    "categorie": "Culture otaku",
+    "difficulte": "moyen",
+    "lien": "Un mot japonais pour quelqu'un au-dessus de soi qu'on respecte.",
+    "piege": "Le senpai est un élève plus âgé ; le sensei est un professeur ou un maître."
+  },
+  {
+    "id": "an-m-019",
+    "motA": "Shōnen",
+    "motB": "Shōjo",
+    "categorie": "Culture otaku",
+    "difficulte": "moyen",
+    "lien": "Un genre de manga défini par le public qu'il vise.",
+    "piege": "Le shōnen vise les garçons (combats, amitié) ; le shōjo vise les filles (romance, émotions)."
+  },
+  {
+    "id": "an-m-020",
+    "motA": "Kawaii",
+    "motB": "Sugoi",
+    "categorie": "Culture otaku",
+    "difficulte": "moyen",
+    "lien": "Un mot japonais qu'on entend tout le temps dans les anime, souvent crié.",
+    "piege": "Kawaii veut dire mignon ; sugoi veut dire incroyable."
+  },
+  {
+    "id": "an-m-021",
+    "motA": "Akatsuki",
+    "motB": "Hashira",
+    "categorie": "Groupes",
+    "difficulte": "moyen",
+    "lien": "Un groupe d'élite d'une dizaine de combattants parmi les plus forts de leur monde.",
+    "piege": "L'Akatsuki rassemble des ninjas criminels en manteaux à nuages rouges ; les Hashira sont les neuf piliers qui protègent les humains des démons."
+  },
+  {
+    "id": "an-m-022",
+    "motA": "Your Name",
+    "motB": "Les Enfants du temps",
+    "categorie": "Films",
+    "difficulte": "moyen",
+    "lien": "Un film de Makoto Shinkai : une histoire d'amour liée à un phénomène dans le ciel.",
+    "piege": "Dans Your Name, deux ados échangent leurs corps avant la chute d'une comète ; dans Les Enfants du temps, une fille peut faire cesser la pluie."
+  },
+  {
+    "id": "an-m-023",
+    "motA": "Marin Kitagawa",
+    "motB": "Anna Yamada",
+    "categorie": "Romcom",
+    "difficulte": "moyen",
+    "lien": "La fille populaire qui craque pour le garçon solitaire de la classe.",
+    "piege": "Marin est une gyaru fan de cosplay (My Dress-Up Darling) ; Anna est une grande mannequin qui mange tout le temps (The Dangers in My Heart)."
+  },
+  {
+    "id": "an-m-024",
+    "motA": "Loid",
+    "motB": "Yor",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Un parent de la fausse famille Forger, qui cache un métier secret.",
+    "piege": "Loid est un espion qui a adopté Anya pour sa mission ; Yor est une tueuse à gages qui travaille à la mairie."
+  },
+  {
+    "id": "an-m-025",
+    "motA": "Gon",
+    "motB": "Killua",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Les deux meilleurs amis enfants de Hunter x Hunter.",
+    "piege": "Gon est naïf, a les cheveux noirs en pointes et une canne à pêche ; Killua a les cheveux blancs, vient d'une famille d'assassins et utilise l'électricité."
+  },
+  {
+    "id": "an-m-026",
+    "motA": "Hollow",
+    "motB": "Fléau",
+    "categorie": "Créatures",
+    "difficulte": "moyen",
+    "lien": "Un esprit maléfique né du négatif, invisible pour les gens normaux.",
+    "piege": "Le Hollow est une âme corrompue au masque blanc avec un trou dans le corps (Bleach) ; le fléau naît des émotions négatives des humains (Jujutsu Kaisen)."
+  },
+  {
+    "id": "an-m-027",
+    "motA": "Edward",
+    "motB": "Alphonse",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Les frères alchimistes de Fullmetal Alchemist.",
+    "piege": "Edward est petit, avec un bras et une jambe mécaniques ; Alphonse est une âme enfermée dans une armure vide."
+  },
+  {
+    "id": "an-m-028",
+    "motA": "Asta",
+    "motB": "Rock Lee",
+    "categorie": "Personnages",
+    "difficulte": "moyen",
+    "lien": "Le seul personnage sans pouvoir magique, qui compense par un entraînement physique acharné.",
+    "piege": "Asta crie fort et manie des épées anti-magie (Black Clover) ; Rock Lee porte une combinaison verte et ne fait que du taïjutsu (Naruto)."
+  },
+  {
+    "id": "an-m-029",
+    "motA": "Titan Colossal",
+    "motB": "Titan Cuirassé",
+    "categorie": "Créatures",
+    "difficulte": "moyen",
+    "lien": "Les titans qui ont brisé le mur au début de L'Attaque des Titans.",
+    "piege": "Le Titan Colossal mesure 60 mètres et dégage de la vapeur ; le Titan Cuirassé a une peau dure comme une armure."
+  },
+  {
+    "id": "an-m-030",
+    "motA": "Respiration de l'eau",
+    "motB": "Respiration de la foudre",
+    "categorie": "Techniques",
+    "difficulte": "moyen",
+    "lien": "Un style de combat des pourfendeurs de Demon Slayer.",
+    "piege": "La respiration de l'eau (Tanjiro, Giyu) dessine des vagues ; celle de la foudre (Zenitsu) frappe à la vitesse de l'éclair."
+  },
+  {
     "id": "an-d-001",
     "motA": "Chizuru Mizuhara",
     "motB": "Chitoge Kirisaki",
@@ -88,5 +565,248 @@
     "difficulte": "difficile",
     "lien": "Un lycéen génie qui reçoit un pouvoir surnaturel et tue pour bâtir un monde meilleur, sous un faux nom.",
     "piege": "Light utilise un cahier et côtoie un dieu de la mort ; Lelouch a un pouvoir dans l'œil, un masque et des robots géants."
+  },
+  {
+    "id": "an-d-004",
+    "motA": "Makima",
+    "motB": "Aizen",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Le supérieur bienveillant qui manipule tout le monde en secret depuis le début.",
+    "piege": "Makima est le démon du Contrôle aux yeux à anneaux, entourée de chiens (Chainsaw Man) ; Aizen est un capitaine à lunettes qui hypnotise avec son sabre (Bleach)."
+  },
+  {
+    "id": "an-d-005",
+    "motA": "Subaru",
+    "motB": "Okabe",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un héros qui revit les mêmes moments encore et encore pour sauver ceux qu'il aime.",
+    "piege": "Subaru revient en arrière à chaque fois qu'il meurt (Re:Zero) ; Okabe envoie des messages dans le passé avec un micro-ondes (Steins;Gate)."
+  },
+  {
+    "id": "an-d-006",
+    "motA": "Rudeus",
+    "motB": "Tanya",
+    "categorie": "Isekai",
+    "difficulte": "difficile",
+    "lien": "Un adulte de notre monde réincarné en enfant surdoué en magie.",
+    "piege": "Rudeus est un ancien reclus qui veut se racheter (Mushoku Tensei) ; Tanya est un ancien salarié réincarné en petite fille soldat (Saga of Tanya the Evil)."
+  },
+  {
+    "id": "an-d-007",
+    "motA": "Masachika",
+    "motB": "Joro",
+    "categorie": "Romcom",
+    "difficulte": "difficile",
+    "lien": "Un lycéen entouré de filles qui cache sa vraie nature à tout le monde.",
+    "piege": "Masachika comprend en secret le russe d'Alya (Roshidere) ; Joro joue au gentil naïf mais il est calculateur (Oresuki)."
+  },
+  {
+    "id": "an-d-008",
+    "motA": "Ichikawa",
+    "motB": "Wakana",
+    "categorie": "Romcom",
+    "difficulte": "difficile",
+    "lien": "Le garçon solitaire et timide dont la fille la plus populaire tombe amoureuse.",
+    "piege": "Ichikawa se croit dangereux et lit des livres sur le meurtre (The Dangers in My Heart) ; Wakana fabrique des poupées et coud des costumes de cosplay (My Dress-Up Darling)."
+  },
+  {
+    "id": "an-d-009",
+    "motA": "Taiga",
+    "motB": "Asuka",
+    "categorie": "Romcom",
+    "difficulte": "difficile",
+    "lien": "La tsundere fière et colérique qui frappe le héros mais tient à lui.",
+    "piege": "Taiga est toute petite, surnommée le tigre de poche (Toradora) ; Asuka est une pilote de robot géant aux cheveux roux (Evangelion)."
+  },
+  {
+    "id": "an-d-010",
+    "motA": "Migi",
+    "motB": "Pochita",
+    "categorie": "Créatures",
+    "difficulte": "difficile",
+    "lien": "Une petite créature qui vit dans le corps du héros et lui donne sa force.",
+    "piege": "Migi est un parasite qui a pris la place de la main droite de Shinichi (Parasite) ; Pochita est un chien-démon tronçonneuse devenu le cœur de Denji."
+  },
+  {
+    "id": "an-d-011",
+    "motA": "Akira",
+    "motB": "Ghost in the Shell",
+    "categorie": "Films",
+    "difficulte": "difficile",
+    "lien": "Un film d'animation culte cyberpunk, dans une mégapole japonaise du futur.",
+    "piege": "Akira, c'est la moto rouge et un ado aux pouvoirs incontrôlables à Néo-Tokyo ; Ghost in the Shell suit une femme cyborg qui traque des hackers."
+  },
+  {
+    "id": "an-d-012",
+    "motA": "Spike",
+    "motB": "Lupin",
+    "categorie": "Seinen",
+    "difficulte": "difficile",
+    "lien": "Un hors-la-loi cool et décontracté, en costume, qui vit d'aventures avec sa petite bande.",
+    "piege": "Spike est un chasseur de primes dans l'espace (Cowboy Bebop) ; Lupin est un voleur gentleman poursuivi par l'inspecteur Zenigata (Lupin III)."
+  },
+  {
+    "id": "an-d-013",
+    "motA": "Itachi",
+    "motB": "Reiner",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un traître qui a commis un massacre par devoir et le porte en secret.",
+    "piege": "Itachi a éliminé son clan pour protéger son village (Naruto) ; Reiner, le Titan Cuirassé, a infiltré l'armée de ceux qu'il a attaqués (L'Attaque des Titans)."
+  },
+  {
+    "id": "an-d-014",
+    "motA": "Lunes démoniaques",
+    "motB": "Espada",
+    "categorie": "Groupes",
+    "difficulte": "difficile",
+    "lien": "L'élite des méchants, classés par numéro, au service du grand méchant.",
+    "piege": "Les Lunes démoniaques ont leur rang gravé dans les yeux (Demon Slayer) ; les Espada ont leur numéro tatoué sur le corps (Bleach)."
+  },
+  {
+    "id": "an-d-015",
+    "motA": "Chevaliers d'Or",
+    "motB": "Gotei 13",
+    "categorie": "Groupes",
+    "difficulte": "difficile",
+    "lien": "Une élite de douze ou treize guerriers, chacun responsable de sa maison ou de sa division.",
+    "piege": "Les Chevaliers d'Or portent des armures du zodiaque (Les Chevaliers du Zodiaque) ; le Gotei 13 regroupe les capitaines shinigami (Bleach)."
+  },
+  {
+    "id": "an-d-016",
+    "motA": "Transmutation humaine",
+    "motB": "Edo Tensei",
+    "categorie": "Techniques",
+    "difficulte": "difficile",
+    "lien": "Une technique interdite pour ramener les morts.",
+    "piege": "La transmutation humaine a coûté une jambe à Edward et le corps d'Alphonse (Fullmetal Alchemist) ; l'Edo Tensei fait revenir les morts pour en faire des soldats (Naruto)."
+  },
+  {
+    "id": "an-d-017",
+    "motA": "Stand",
+    "motB": "Persona",
+    "categorie": "Pouvoirs",
+    "difficulte": "difficile",
+    "lien": "Un double combattant qui sort de son utilisateur et se bat pour lui.",
+    "piege": "Le Stand vient de JoJo's Bizarre Adventure et porte souvent un nom de chanson ; la Persona s'invoque dans la série Persona, issue des jeux vidéo."
+  },
+  {
+    "id": "an-d-018",
+    "motA": "Le Voyage de Chihiro",
+    "motB": "Le Château ambulant",
+    "categorie": "Films",
+    "difficulte": "difficile",
+    "lien": "Un film de Miyazaki où une jeune fille est plongée dans un monde magique et doit briser un sort.",
+    "piege": "Chihiro travaille dans des bains pour les esprits et sauve ses parents changés en cochons ; Sophie est transformée en vieille dame et vit avec le sorcier Hauru."
+  },
+  {
+    "id": "an-d-019",
+    "motA": "Mob",
+    "motB": "Saitama",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Le héros surpuissant à l'air banal et inexpressif, créé par le même auteur, ONE.",
+    "piege": "Mob est un collégien médium à la coupe au bol qui explose quand ses émotions débordent ; Saitama est un héros chauve qui gagne chaque combat en un coup de poing."
+  },
+  {
+    "id": "an-d-020",
+    "motA": "Anya",
+    "motB": "Saiki",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un personnage télépathe qui entend les pensées de tout le monde et doit le cacher.",
+    "piege": "Anya est une petite fille adoptée par un espion (Spy x Family) ; Saiki est un lycéen aux pouvoirs infinis qui veut juste une vie normale (The Disastrous Life of Saiki K.)."
+  },
+  {
+    "id": "an-d-021",
+    "motA": "Kaori",
+    "motB": "Shoko",
+    "categorie": "Romance",
+    "difficulte": "difficile",
+    "lien": "L'héroïne au destin difficile qui sort le héros de sa solitude.",
+    "piege": "Kaori est une violoniste malade qui redonne goût au piano à Kōsei (Your Lie in April) ; Shoko est une fille sourde que Shoya harcelait enfant (A Silent Voice)."
+  },
+  {
+    "id": "an-d-022",
+    "motA": "Yuno",
+    "motB": "Toga",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "La yandere au sourire inquiétant, amoureuse au point d'en devenir dangereuse.",
+    "piege": "Yuno suit son amoureux grâce à un journal du futur (Mirai Nikki) ; Toga boit le sang des autres pour prendre leur apparence (My Hero Academia)."
+  },
+  {
+    "id": "an-d-023",
+    "motA": "Musashi",
+    "motB": "Kenshin",
+    "categorie": "Seinen",
+    "difficulte": "difficile",
+    "lien": "Un épéiste errant du Japon d'autrefois qui cherche sa voie avec le sabre.",
+    "piege": "Musashi veut devenir invincible (Vagabond) ; Kenshin a une cicatrice en croix et un sabre à lame inversée pour ne plus tuer (Kenshin le vagabond)."
+  },
+  {
+    "id": "an-d-024",
+    "motA": "Enies Lobby",
+    "motB": "Marineford",
+    "categorie": "Arcs",
+    "difficulte": "difficile",
+    "lien": "Un arc de One Piece où l'on attaque une forteresse du gouvernement pour sauver un proche de Luffy.",
+    "piege": "À Enies Lobby, l'équipage vient sauver Robin ; à Marineford, c'est la grande guerre pour sauver Ace."
+  },
+  {
+    "id": "an-d-025",
+    "motA": "Examen chûnin",
+    "motB": "Examen Hunter",
+    "categorie": "Arcs",
+    "difficulte": "difficile",
+    "lien": "Un examen en plusieurs épreuves dangereuses pour obtenir un grade ou une licence.",
+    "piege": "L'examen chûnin passe par la forêt de la mort puis un tournoi (Naruto) ; l'examen Hunter donne la licence de Hunter (Hunter x Hunter)."
+  },
+  {
+    "id": "an-d-026",
+    "motA": "Cell",
+    "motB": "Buu",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un méchant de Dragon Ball Z qui absorbe les autres pour devenir plus fort.",
+    "piege": "Cell est un androïde insecte qui absorbe C-17 et C-18 ; Buu est tout rose et transforme les gens en bonbons."
+  },
+  {
+    "id": "an-d-027",
+    "motA": "Hisoka",
+    "motB": "Gin",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un personnage au sourire inquiétant dont on ne sait jamais de quel côté il est.",
+    "piege": "Hisoka est un magicien obsédé par les combats contre des adversaires forts (Hunter x Hunter) ; Gin a les yeux toujours plissés et un sourire de renard (Bleach)."
+  },
+  {
+    "id": "an-d-028",
+    "motA": "Yumeko",
+    "motB": "Kaiji",
+    "categorie": "Seinen",
+    "difficulte": "difficile",
+    "lien": "Un joueur qui risque tout dans des jeux d'argent aux règles folles.",
+    "piege": "Yumeko est une lycéenne qui adore le risque (Kakegurui) ; Kaiji est un homme couvert de dettes qui joue pour survivre."
+  },
+  {
+    "id": "an-d-029",
+    "motA": "Koro-sensei",
+    "motB": "Onizuka",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un prof hors normes qui change la vie de sa classe de cancres.",
+    "piege": "Koro-sensei est une pieuvre jaune qui menace de détruire la Terre (Assassination Classroom) ; Onizuka est un ancien voyou de 22 ans (GTO)."
+  },
+  {
+    "id": "an-d-030",
+    "motA": "Shikamaru",
+    "motB": "Nanami",
+    "categorie": "Personnages",
+    "difficulte": "difficile",
+    "lien": "Un combattant blasé qui trouve tout pénible, mais qui est redoutablement efficace.",
+    "piege": "Shikamaru est un stratège qui contrôle les ombres et trouve tout « galère » (Naruto) ; Nanami est un ancien employé de bureau qui refuse les heures sup (Jujutsu Kaisen)."
   }
 ]

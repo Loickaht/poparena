@@ -48,9 +48,10 @@ describe('ensemble des mots', () => {
     expect(doublons).toEqual([])
   })
 
-  it('a au moins une paire par niveau Anime', () => {
+  it('a assez de paires dans chaque paquet pour enchaîner les manches', () => {
     for (const d of DIFFICULTES) {
-      expect(BIBLIOTHEQUE.anime.filter((p) => p.difficulte === d).length, d).toBeGreaterThan(0)
+      expect(BIBLIOTHEQUE.anime.filter((p) => p.difficulte === d).length, `Anime ${d}`).toBeGreaterThanOrEqual(10)
     }
+    expect(BIBLIOTHEQUE.vieReelle.length, 'Vie réelle').toBeGreaterThanOrEqual(10)
   })
 })
